@@ -7,5 +7,5 @@ My name is Gabriel Simon, I'm from Brazil 🗺 I'm Computer engineer🧑🏼‍�
 
 **Reach me out**👇🏽
 
-[**Linkedin:**](//www.linkedin.com/in/gabriel-simon-872899185/)]https://www.linkedin.com/in/gabriel-simon-872899185/
+[**Linkedin:**](//www.linkedin.com/in/gabriel-simon-872899185/)https://www.linkedin.com/in/gabriel-simon-872899185/
 
