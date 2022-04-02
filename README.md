@@ -12,8 +12,10 @@ My name is Gabriel Simon, I'm from Brazil 🗺 I'm Computer engineer🧑🏼‍�
 ![java](https://user-images.githubusercontent.com/52720347/141211318-0e17756c-d75e-4220-ae94-040c5024c14f.png)
 ![postgresql_plain_logo_icon_146389](https://user-images.githubusercontent.com/52720347/120117837-9aeccd00-c165-11eb-8a90-6c438d5a0bd7.png)
 ![file_type_git_icon_130581](https://user-images.githubusercontent.com/52720347/121528043-7ac4d580-c9d1-11eb-9109-14861baf2ce0.png)
-
-  <strong>I'm learning Java, Angular, PostgreSQL, JUnit, Git and Spring.</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height=52/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height=49/>
+  
+  <strong>I'm learning Java, Angular, PostgreSQL, Git and Spring.</strong>
   
 **Reach me out**👇🏽
 
