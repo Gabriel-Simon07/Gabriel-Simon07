@@ -1,7 +1,7 @@
 <div>
 ### Hi there 👋
 
-My name is Gabriel Simon, I'm from Brazil 🗺 I'm Software Developer🧑🏼‍💻
+My name is Gabriel Simon, I'm from Brazil 🗺 and i'm Software Developer🧑🏼‍💻
 
 - 📍From SC living is Blumenau
 
