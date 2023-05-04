@@ -15,7 +15,7 @@ My name is Gabriel Simon, I'm from Brazil 🗺 and i'm Software Developer🧑�
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height=52/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height=49/>
   
-  <strong>I'm learning Java, Angular, PostgreSQL, Git and Spring.</strong>
+  <strong>I'm working with Java, Angular, PostgreSQL, Git and Spring.</strong>
   
 **Reach me out**👇🏽
 
